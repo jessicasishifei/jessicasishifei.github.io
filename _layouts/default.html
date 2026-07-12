@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    {% include masthead.html %}
+    <main class="page-shell">
+      {% if page.author_profile %}
+        {% include author-profile.html %}
+      {% endif %}
+      <article class="page-content">
+        {{ content }}
+      </article>
+    </main>
+    {% include footer.html %}
+  </body>
+</html>

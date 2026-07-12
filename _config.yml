@@ -1,0 +1,87 @@
+﻿title: "Jessica Sishi Fei"
+name: "Jessica Sishi Fei"
+description: "Personal academic website of Jessica Sishi Fei"
+url: ""
+baseurl: ""
+repository: ""
+
+author:
+  name: "Jessica Sishi Fei"
+  avatar: "/assets/images/jessica-sishi-fei.jpg"
+  bio: "PhD student in Human Development"
+  employer: "University of Maryland, College Park"
+  email: "sishifei@umd.edu"
+  googlescholar: "https://scholar.google.com/citations?user=Ke6x8LQAAAAJ&hl=en"
+  researchgate: "https://www.researchgate.net/profile/Jessica-Sishi-Fei"
+  linkedin: "https://www.linkedin.com/in/jessica-sishi-fei-49a4542b1"
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+timezone: Asia/Shanghai
+
+include:
+  - _pages
+
+collections:
+  publications:
+    output: true
+    permalink: /publication/:path/
+  presentations:
+    output: true
+    permalink: /presentations/:path/
+  awards:
+    output: true
+    permalink: /awards/:path/
+  teaching:
+    output: true
+    permalink: /teaching/:path/
+  service:
+    output: true
+    permalink: /service/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      author_profile: true
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: presentations
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: awards
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: service
+    values:
+      layout: single
+      author_profile: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - work
+  - outputs
+

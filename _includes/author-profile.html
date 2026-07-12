@@ -1,0 +1,33 @@
+<aside class="author-profile" aria-label="Author profile">
+  <img class="author-avatar" src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
+  <h2>{{ site.author.name }}</h2>
+  {% if site.author.bio %}
+    <p class="author-bio">{{ site.author.bio }}</p>
+  {% endif %}
+  <ul class="author-links">
+    {% if site.author.employer %}
+      <li>{{ site.author.employer }}</li>
+    {% endif %}
+    {% if site.author.location %}
+      <li>{{ site.author.location }}</li>
+    {% endif %}
+    {% if site.author.email %}
+      <li><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+    {% endif %}
+    {% if site.author.googlescholar %}
+      <li><a href="{{ site.author.googlescholar }}">Google Scholar</a></li>
+    {% endif %}
+    {% if site.author.researchgate %}
+      <li><a href="{{ site.author.researchgate }}">ResearchGate</a></li>
+    {% endif %}
+    {% if site.author.linkedin %}
+      <li><a href="{{ site.author.linkedin }}">LinkedIn</a></li>
+    {% endif %}
+    {% if site.author.orcid %}
+      <li><a href="{{ site.author.orcid }}">ORCID</a></li>
+    {% endif %}
+    {% if site.author.github %}
+      <li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>
+    {% endif %}
+  </ul>
+</aside>

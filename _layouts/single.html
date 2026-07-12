@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<header class="page-header">
+  <h1>{{ page.title }}</h1>
+  <p class="item-meta">
+    {% if page.date %}{{ page.date | date: "%B %-d, %Y" }}{% endif %}
+    {% if page.venue %} &middot; {{ page.venue }}{% endif %}
+    {% if page.location %} &middot; {{ page.location }}{% endif %}
+  </p>
+</header>
+
+{{ content }}
