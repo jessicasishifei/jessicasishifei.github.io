@@ -4,7 +4,7 @@ permalink: /
 author_profile: true
 ---
 
-I am Jessica Sishi Fei, a first-year Ph.D. student in the Department of Human Development and Quantitative Methodology at the University of Maryland, College Park, where I work with Dr. Min Wang. My research examines how readers move from identifying individual words to constructing coherent representations of text, with a particular focus on readers who use English as a second language.
+I am Jessica Sishi Fei, a Ph.D. student starting in 2025 in the Department of Human Development and Quantitative Methodology at the University of Maryland, College Park, where I work with Dr. Min Wang. My research examines how readers move from identifying individual words to constructing coherent representations of text, with a particular focus on readers who use English as a second language.
 
 Comprehension requires more than recognizing words and accessing their meanings. As a text unfolds, readers must retrieve relevant information from the preceding text and integrate each incoming word into an evolving mental representation, thereby establishing coherence across sentences. My work examines how reader-level resources and text-level cues jointly shape this process of coherence building.
 
