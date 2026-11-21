@@ -12,7 +12,6 @@ author_profile: true
 ## Manuscripts Under Review and In Preparation
 
 - **Fei, J. S.**, & Wang, M. (in revision). Contribution of connectives to reading comprehension in a second language: How educational level and cognitive reasoning shape coherence building.
-- Guo, H., **Fei, J. S.**, & Wu, R. (in revision). Critical Recontextualisation in GenAI-assisted lesson design: Pre-service EFL teachers’ critical thinking across lesson contexts.
 - **Fei, J. S.**, Wang, M., & Perfetti, C. (under review). How large language models meet human readers: Evidence from word-to-text integration in L2 reading.
 - **Fei, J. S.**, Wang, M., & Sudina, E. (under review). Pathways linking metalinguistic awareness to L2 English reading comprehension: A meta-analytic structural equation modeling study.
 - **Fei, J. S.**, & Wang, M. (in preparation). Bridging vocabulary knowledge and reading comprehension: Word-to-text integration as an intermediate process in second language reading.
