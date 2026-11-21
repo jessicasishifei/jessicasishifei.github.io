@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 - **Fei, J. S.**, Wang, M., & Sudina, E. (2027, April). Extending the lexical quality hypothesis to L2 Reading: A meta-analytic review. Spoken paper to be presented at *2027 Annual Meeting of the American Educational Research Association (AERA)*, Toronto, ON, Canada.
-- **Fei, J. S.**, & Wang, M. (2026, November). Coherence building from reading comprehension to written production: Roles of connective input and individual differences in second language learners. Invited Data Blitz presentation (talk) to be presented at *Psychonomic Society 67th Annual Meeting*, San Diego, CA, USA.
+- **Fei, J. S.**, & Wang, M. (2026, November). Coherence building from reading comprehension to written production: Roles of connective input and individual differences in second language learners. Invited Data Blitz presentation (talk) presented at *Psychonomic Society 67th Annual Meeting*, San Diego, CA, USA.
 - **Fei, J. S.**, & Wang, M. (2026, September). Inside the Reading System: From Word to Text and in a Second Language. Poster presented at *Language Science Day 2026*, MD, USA.
 - **Fei, J. S.**, & Wang, M. (2026, July). Causal and concessive connectives in ESL reading comprehension: Evidence from developmental changes and individual differences. Spoken paper presented at *36th Annual Meeting of the Society for Text and Discourse (ST&D)*, Charlotte, NC, USA.
 - **Fei, J. S.**, & Wang, M. (2025, October). The influence of causal and concessive connectives on Chinese ESL learners' text comprehension: The role of individual differences. Poster presented at *2025 Association for Psychological Science (APS) Global Psychological Science Summit*, online.
