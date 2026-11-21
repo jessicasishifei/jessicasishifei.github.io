@@ -4,6 +4,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+- John T. and Dorothy E. Lokerson Endowed Scholarship in Education, University of Maryland, $1,000, 2026.
 - J. Frank Yates Travel Award, 67th Annual Meeting of the Psychonomic Society, $1,000, 2026.
 - Jean Grambs Memorial Scholarship, University of Maryland, $1,000, 2026.
 - Walter Kintsch Student Travel Award, 36th Annual Meeting of the Society for Text and Discourse (ST&D), $207, 2026.
